@@ -1,5 +1,5 @@
 # Job-Post
-**Sample Job Posting**
+### **Sample Job Posting**
 ## Editor 
 ### Institute for Intergovernmental Research - Tallahassee, FL 32308 
 ### FLSA Status: Nonexempt 
