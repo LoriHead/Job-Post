@@ -45,7 +45,7 @@ Proofread and edit products to improve readability and detect and correct errors
 - Serve as grammar, punctuation, and style resource for all IIR employees
 - Other duties, as assigned
 
-## Required Knowledge & Skills
+## Required Education & Skills
 **Original:**
 Knowledge and Skills 
 Bachelor's degree preferred Minimum two years of job-related experience required Excellent grammar skills Strong attention to detail Excellent verbal and written communication skills Ability to work independently and in teams Ability to effectively handle and prioritize multiple projects and tasks Ability to do research on the World Wide Web Ability to comprehend complex documents and decipher key points Knowledge of the Spanish language preferred but not required 
@@ -53,10 +53,18 @@ Physical Demands and Work Environment
 
 Most work is performed in an office environment working with multiple programs. May require occasional overtime. 
 
-## Required Knowledge & Skills
+## Required Education & Skills
 **Rewrite:**
 
-
+**Education:** Bachelor's Degree (preferred)
+**Skills:** 
+- 2+ years of job-related experience demonstrating:
+  - Excellent grammar, punctuation, and style
+  - Accute attention to detail
+  - Adept summarization and re-writing skill
+  - Highly effective written and verbal communication
+  - Exceptional prioritizing and multi-tasking 
+  - Proficiency in spoken and written Spanish language (preferred)
 
 Background Requirements 
 
