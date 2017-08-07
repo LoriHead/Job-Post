@@ -30,7 +30,8 @@ Proofread and edit products to improve readability and detect and correct errors
 **Rewrite:**
 
 - Proofread and edit IIR internal and external correspondence, including:
-  * Meeting Minutes/Talking Points
+  - Meeting Minutes/Talking Points
+  	- ddd
   - Manuscripts
   - Program Briefings/Program Brochures 
   - PowerPoint Presentations
