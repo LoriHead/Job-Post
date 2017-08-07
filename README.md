@@ -4,20 +4,20 @@
 ### Institute for Intergovernmental Research - Tallahassee, FL 32308 
 ### FLSA Status: Nonexempt 
 
-# Position Description 
+## Position Description 
 
 **Original:**
 The editor for administrative services performs a variety of proofreading and editorial duties for all IIR-generated documents companywide and for products created for or by IIR clients, as required. All products disseminated outside of IIR are to be approved by the IIR editor. The IIR editor must be aware of and adhere to multiple program style guides, including those for IIR, the U.S. Department of Justice, the U.S. Department of Homeland Security, or the APA, as well as Spanish language style guides and terminology matrices.
 
 
-# Position Description 
+## Position Description 
 
 **Rewrite:**
 **Title**: Editor
 **Department**: Administrative Services
 **Description**: The Editor shall proofread and edit all IIR-created documents by all branches--and for products created for or by IRR clients--as required.  The editor shall adhere to grammar, punctuation, and style guides set forth by the U.S. Department of Justice, the U.S. Department of Homeland Security, APA, Spanish language, and terminology matrices.     
 
-# Responsibilities
+## Responsibilities
 
 **Original**
 Responsibilities 
