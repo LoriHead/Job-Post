@@ -1,22 +1,19 @@
 # Job-Post
 ### **Sample Job Posting**
 ## Title: Editor  
-### Company: Institute for Intergovernmental Research
+### Company: Institute for Intergovernmental Research (IIR)
 ### Location: Tallahassee, FL 32308 
 ### FLSA Status: Nonexempt 
 ### Application Closing Date: TBD
 ### Salary Range: $35,000-$37,000 USD annually
 
 ## Position Description 
-
 **Original:**
 The editor for administrative services performs a variety of proofreading and editorial duties for all IIR-generated documents companywide and for products created for or by IIR clients, as required. All products disseminated outside of IIR are to be approved by the IIR editor. The IIR editor must be aware of and adhere to multiple program style guides, including those for IIR, the U.S. Department of Justice, the U.S. Department of Homeland Security, or the APA, as well as Spanish language style guides and terminology matrices.
 
 
 ## Position Description 
-
 **Rewrite:**
-
 **Job Title:** Editor
 
 **Department:** Administrative Services
@@ -33,7 +30,7 @@ Proofread and edit products to improve readability and detect and correct errors
 **Rewrite:**
 
 - Proofread and edit IIR internal and external correspondence, including:
-  - Meeting Minutes/Talking Points
+  	- Meeting Minutes/Talking Points
   - Manuscripts
   - Program Briefings/Program Brochures 
   - PowerPoint Presentations
