@@ -31,7 +31,6 @@ Proofread and edit products to improve readability and detect and correct errors
 
 - Proofread and edit IIR internal and external correspondence, including:
   - Meeting Minutes/Talking Points
-  	- ddd
   - Manuscripts
   - Program Briefings/Program Brochures 
   - PowerPoint Presentations
@@ -43,7 +42,7 @@ Proofread and edit products to improve readability and detect and correct errors
   - Statements of Work/Concept Papers
   - Grant Applications
   - Documentation for Conferences, Summits, and other events
-- Serve as resource for grammar, punctuation, and style
+- Serve as grammar, punctuation, and style resource for all IIR employees
 - Other duties, as assigned
 
 ## Required Knowledge & Skills
@@ -53,6 +52,11 @@ Bachelor's degree preferred Minimum two years of job-related experience required
 Physical Demands and Work Environment 
 
 Most work is performed in an office environment working with multiple programs. May require occasional overtime. 
+
+## Required Knowledge & Skills
+**Rewrite:**
+
+
 
 Background Requirements 
 
