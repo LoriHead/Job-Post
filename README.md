@@ -1,8 +1,11 @@
 # Job-Post
 ### **Sample Job Posting**
-## Editor 
-### Institute for Intergovernmental Research - Tallahassee, FL 32308 
+## Title: Editor  
+### Company: Institute for Intergovernmental Research
+### Location: Tallahassee, FL 32308 
 ### FLSA Status: Nonexempt 
+### Application Closing Date: TBD
+### Salary Range: $35,000-$37,000 USD annually
 
 ## Position Description 
 
@@ -14,15 +17,15 @@ The editor for administrative services performs a variety of proofreading and ed
 
 **Rewrite:**
 
-**Title**: Editor
+**Job Title:** Editor
 
-**Department**: Administrative Services
+**Department:** Administrative Services
 
-**Description**: The Editor shall proofread and edit all IIR-created documents by all branches--and for products created for or by IRR clients--as required.  The editor shall adhere to grammar, punctuation, and style guides set forth by the U.S. Department of Justice, the U.S. Department of Homeland Security, APA, Spanish language, and terminology matrices.     
+**Overview:** The Editor shall proofread and edit all IIR-created documents by all branches--and for products created for or by IRR clients--as required.  The editor shall adhere to grammar, punctuation, and style guides set forth by the U.S. Department of Justice, the U.S. Department of Homeland Security, APA, Spanish language, and terminology matrices.     
 
 ## Responsibilities
 
-**Original**
+**Original:**
 Responsibilities 
 Proofread and edit products to improve readability and detect and correct errors in spelling, punctuation, and syntax Ensure that all products follow IIR and client program guidelines Check products for consistency of fonts, colors, styles, writing, punctuation, and graphic design Verify facts, dates, and statistics, using standard reference sources Proofread/edit website content during the development stage and after product rollout Check links used on websites or in products for functionality Proofread/edit correspondence, meeting minutes, talking points, manuscripts, program briefings, assessment reports and recommendations, news articles, newsletters, success stories, white papers, and annual reports Proofread/edit PowerPoints, curricula, classroom journals, student handbooks, training materials/handouts, flyers, agendas, attendee lists, webinar announcements, and e-mail blasts Proofread/edit descriptive program brochures or publications Proofread/edit scripts for online training, including comparing visual text to voice-over content Proofread/edit progress reports, quarterly training reports, statements of work, concept papers, and grant applications and all of the accompanying components and documentation required Proofread/edit documents and materials generated for IIR scheduled meetings, conferences, summits, and other events Proofread/edit contracts and the accompanying correspondence Proofread/edit corporate and instructor bios and rsums Serve as resource for questions related to grammar, punctuation, and style guides to all IIR employees Other duties as assigned 
 
@@ -45,6 +48,8 @@ Proofread and edit products to improve readability and detect and correct errors
 - Serve as resource for grammar, punctuation, and style
 - Other duties, as assigned
 
+## Required Knowledge & Skills
+**Original:**
 Knowledge and Skills 
 Bachelor's degree preferred Minimum two years of job-related experience required Excellent grammar skills Strong attention to detail Excellent verbal and written communication skills Ability to work independently and in teams Ability to effectively handle and prioritize multiple projects and tasks Ability to do research on the World Wide Web Ability to comprehend complex documents and decipher key points Knowledge of the Spanish language preferred but not required 
 Physical Demands and Work Environment 
