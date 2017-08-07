@@ -13,8 +13,11 @@ The editor for administrative services performs a variety of proofreading and ed
 ## Position Description 
 
 **Rewrite:**
+
 **Title**: Editor
+
 **Department**: Administrative Services
+
 **Description**: The Editor shall proofread and edit all IIR-created documents by all branches--and for products created for or by IRR clients--as required.  The editor shall adhere to grammar, punctuation, and style guides set forth by the U.S. Department of Justice, the U.S. Department of Homeland Security, APA, Spanish language, and terminology matrices.     
 
 ## Responsibilities
