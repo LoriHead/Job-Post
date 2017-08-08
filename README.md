@@ -91,3 +91,5 @@ This job description is intended to provide guidelines for job expectations and 
 
 This job description serves as an overview of the responsibilities, education, and background requirements of the Editor position for the benefit of candidates to assess their ability to perform in this role.  This description shall not be considered an exhasutive list of all functions, responsibilities, skills, or abilities required. Additional functions and responsibilites may be assigned by managers, as appropriate.  This document does not represent a contract of employment.  The IIR reserves the right to change this job description and/or assign other tasks for the employee to perform, as appropriate.     
 
+## Application Link: [https://www.indeed.com/job/Editor-at-Institute-for-Intergovernmental-Research-in-Tallahassee,-FL-f35888703a05b5f0]
+
