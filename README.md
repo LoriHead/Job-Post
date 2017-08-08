@@ -59,22 +59,35 @@ Most work is performed in an office environment working with multiple programs. 
 **Education:** Bachelor's Degree (preferred)
 
 **Skills:** 
+
 2+ years of job-related experience demonstrating:
   - Excellent grammar, punctuation, and style
   - Accute attention to detail
   - Adept summarization and re-writing skill
   - Highly effective written and verbal communication
-  - Proficiency in working in teams and independently
-  - Proficiency in Internet research 
+  - Teamwork 
+  - Independence 
+  - Internet research 
   - Exceptional prioritizing and multi-tasking 
   - Proficiency in spoken and written Spanish language (preferred)
 
 ## Background Requirements
+**Original:**
 Background Requirements 
 
 Candidates who have accepted an offer will be required to submit to a background investigation, including criminal history, credit history, employment history, educational history, and personal and professional references. 
 
+## Background Requirements
+**Rewrite:**
+
+Candidates accepting an offer for the Editor position must submit to a background investigation into their criminal, credit, and employment histories, and personal and professional references.  
+
+## Disclaimer 
+**Original:**
 This job description is intended to provide guidelines for job expectations and the employee's ability to perform the position described. It is not intended to be construed as an exhaustive list of all functions, responsibilities, skills, and abilities. Additional functions and requirements may be assigned by managers, as appropriate. This document does not represent a contract of employment, and IIR reserves the right to change this job description and/or assign tasks for the employee to perform, as appropriate.
 
-	 
+## Disclaimer 
+**Rewrite:**
+
+This job description serves as an overview of the responsibilities, education, and background requirements of the Editor position for the benefit of candidates to assess their ability to perform in this role.  This description shall not be considered an exhasutive list of all functions, responsibilities, skills, or abilities required. Additional functions and responsibilites may be assigned by managers, as appropriate.  This document does not represent a contract of employment.  The IIR reserves the right to change this job description and/or assign other tasks for the employee to perform, as appropriate.     
 
