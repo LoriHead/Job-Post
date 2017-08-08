@@ -57,15 +57,19 @@ Most work is performed in an office environment working with multiple programs. 
 **Rewrite:**
 
 **Education:** Bachelor's Degree (preferred)
+
 **Skills:** 
-- 2+ years of job-related experience demonstrating:
+2+ years of job-related experience demonstrating:
   - Excellent grammar, punctuation, and style
   - Accute attention to detail
   - Adept summarization and re-writing skill
   - Highly effective written and verbal communication
+  - Proficiency in working in teams and independently
+  - Proficiency in Internet research 
   - Exceptional prioritizing and multi-tasking 
   - Proficiency in spoken and written Spanish language (preferred)
 
+## Background Requirements
 Background Requirements 
 
 Candidates who have accepted an offer will be required to submit to a background investigation, including criminal history, credit history, employment history, educational history, and personal and professional references. 
