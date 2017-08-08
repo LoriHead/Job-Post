@@ -1,5 +1,5 @@
 # Job-Post
-### **Sample Job Posting**
+**Derived from Indeed.com**
 ## Title: Editor  
 ### Company: Institute for Intergovernmental Research (IIR)
 ### Location: Tallahassee, FL 32308 
